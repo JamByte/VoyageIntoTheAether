@@ -1,0 +1,16 @@
+[
+{
+  "modid": "voyage_into_the_aether",
+  "name": "Voyage Into the Aether",
+  "description": "A mod to add holystone versions of ores",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JamByte"],
+  "credits": "Aether 1 and thermal series of mods for the texture",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

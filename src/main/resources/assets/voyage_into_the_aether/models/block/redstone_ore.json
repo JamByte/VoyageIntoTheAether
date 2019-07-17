@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "voyage_into_the_aether:blocks/redstone_ore"
+	}
+}
