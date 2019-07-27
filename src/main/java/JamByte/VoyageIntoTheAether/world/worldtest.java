@@ -60,7 +60,7 @@ public class worldtest implements IWorldGenerator
     private void generateOverworld(World world, Random rand, int blockX, int blockZ)
     {
         WorldGenerator largeTree = new test(true);
-        for ( int i = 0 ; i < 35 ; i++ )
+        for ( int i = 0 ; i < 40 ; i++ )
         {
             int i8 = rand.nextInt(16) + 8;
             int l11 = rand.nextInt(16) + 8;
@@ -68,7 +68,7 @@ public class worldtest implements IWorldGenerator
 
             flower.generate(world, rand, blockpos2);
         }
-        for ( int i = 0 ; i < 3 ; i++ )
+        for ( int i = 0 ; i < 5 ; i++ )
         {
             int i8 = rand.nextInt(16) + 8;
             int l11 = rand.nextInt(16) + 8;
